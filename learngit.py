@@ -1,6 +1,7 @@
 hungry = input("Are you hungry ")
 if hungry == "yes":
     print("Eat some food")
+    print("Drink some water")
 elif hungry == "maybe":
     print("decide one")
 else:
